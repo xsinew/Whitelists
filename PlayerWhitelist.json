@@ -3,7 +3,7 @@
 	"BlacklistedUsers": {},
 	"Announcement": {
 		"text": "",
-		"expiretime": "0",
+		"expiretime": 0,
 		"targets": "all"
 	},
 	"KillVape": false
