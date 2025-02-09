@@ -1,5 +1,28 @@
 {
-	"WhitelistedUsers": {},
+	"WhitelistedUsers": {
+		{
+			"hash": "495ca976a5f4f085dfc9241a9b74136149ba6a9b8f0d56bf6aaa939702516fa11c75abdf29d7da97bd542d6a338d958a181107874358ced622672fb1e0091127",
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "QP Developer",
+					"color": [ 255, 255, 255 ]
+				}
+			]
+		},
+		{
+			"hash": "8bd940b45a604fbe0c15a9d0e4ee2116b3729e77502f7eddf3c9e6536aef1043f71d14bf71bd5070d3b3cbb4ca4b0bec2b4b01c776b1cd91b3fa58d996a001a8",
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "QP Owner",
+					"color": [ 90, 0, 135 ]
+				}
+			]
+		}
+	},
 	"BlacklistedUsers": {},
 	"Announcement": {
 		"text": "",
