@@ -23,7 +23,7 @@
 			]
 		}
 	],
-	"BlacklistedUsers": {},
+	"BlacklistedUsers": [],
 	"Announcement": {
 		"text": "",
 		"expiretime": 0,
